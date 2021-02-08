@@ -4120,7 +4120,7 @@ img{
 	overflow:hidden;
 }
 
-.about-section.style-two:before{
+/* .about-section.style-two:before{
 	position:absolute;
 	content:'';
 	left:0px;
@@ -4131,7 +4131,7 @@ img{
 	background: -webkit-linear-gradient(to bottom, #FFFFFF 0%, #edefff 100%);
 	background: -moz-linear-gradient(to bottom, #FFFFFF 0%, #edefff 100%);
 	background: linear-gradient(to bottom, #FFFFFF 0%, #edefff 100%);
-}
+} */
 
 .about-section.style-two .content-column .inner-column{
 	padding-top:0px;
@@ -15970,4 +15970,13 @@ img{
 	position:relative;
 	margin-left:-100px;
 	margin-right:-100px;
+}
+
+.funcionarios p, .trabalho p{
+	position: relative;
+    color: #555555;
+    font-size: 18px;
+    line-height: 1.8em;
+
+
 }
